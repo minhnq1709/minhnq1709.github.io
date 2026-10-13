@@ -1,0 +1,27 @@
+{
+  "name": "minhnq1709.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "portfolio",
+    "homepage",
+    "about",
+    "aboutme",
+    "ordinis"
+  ],
+  "homepage": "https://github.com/minhnq1709/minhnq1709.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/minhnq1709/minhnq1709.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhnq1709/minhnq1709.github.io.git"
+  },
+  "license": "ISC",
+  "author": "ordinis",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
